@@ -6,7 +6,7 @@ import (
 )
 
 /**
- * 坐标类
+ * TODO: 地理 - 坐标类
  */
 type Coordinate struct {
 	Latitude  float64
